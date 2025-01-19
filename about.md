@@ -10,7 +10,6 @@ permalink: /about/
 *Mathematik Stundent*
 
 ---
-
 <br>
 
 #### Deutsch
