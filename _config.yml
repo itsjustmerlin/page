@@ -67,4 +67,6 @@ header_pages:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
+social_links:
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+  - { platform: telegram,       user_url: "https://t.me/jekyll" }
