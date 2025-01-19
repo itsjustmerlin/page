@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-- Name: *Merlin/Kris*
-- Gender: *Non Binary*
-- Preferred Pronouns: *He/Him*
-- Occupation: *Mathematik Stundent*
+*Merlin/Kris*, 
+*Non Binary*, 
+*He/Him*, 
+*Mathematik Stundent*
 
 ---
+
+<br>
 
 #### Deutsch
 
