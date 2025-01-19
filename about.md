@@ -11,7 +11,7 @@ permalink: /about/
 
 ---
 
-[Deutsch]
+#### Deutsch
 
 **Illustrator, Grafik-Designer und Schildkrötenlover :)**
 
@@ -28,7 +28,7 @@ Programm Kenntnisse:
 - Hat mal Procreate benutzt
 - Lernt gerade Python
 
-[English]
+#### English
 
 **Illustrator, graphic designer and turtle lover :)**
 
