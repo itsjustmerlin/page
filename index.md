@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
+title: Aktuelles
 ---
 
-Markdown Datei
-# Überschrift 1
